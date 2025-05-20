@@ -31,7 +31,7 @@ Welcome to my personal portfolio website! This is a responsive, clean, and moder
 
 ## 📷 Background Image
 
-The background image features a 4K scenic photo of a person studying (or a calm nature background), enhancing the visual theme of focus and learning.
+![andrei-r-popescu-HBsmzKuGyuI-unsplash](https://github.com/user-attachments/assets/30f77b8f-1adb-4961-a81d-9faf24a11d93)
 
 ---
 
